@@ -12,6 +12,7 @@
 		69100E8B24F5539700A4BAC9 /* Screenshot02.png in Resources */ = {isa = PBXBuildFile; fileRef = 69100E8624F5539700A4BAC9 /* Screenshot02.png */; };
 		69100E8C24F5539700A4BAC9 /* Screenshot03.png in Resources */ = {isa = PBXBuildFile; fileRef = 69100E8724F5539700A4BAC9 /* Screenshot03.png */; };
 		69100E8D24F5539700A4BAC9 /* Screenshot01.png in Resources */ = {isa = PBXBuildFile; fileRef = 69100E8824F5539700A4BAC9 /* Screenshot01.png */; };
+		69100E8F24F555F400A4BAC9 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 69100E8E24F555F400A4BAC9 /* README.md */; };
 		69A49B3224EC021800AEBA90 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69A49B3124EC021800AEBA90 /* AppDelegate.swift */; };
 		69A49B3424EC021800AEBA90 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69A49B3324EC021800AEBA90 /* SceneDelegate.swift */; };
 		69A49B3624EC021800AEBA90 /* WelcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69A49B3524EC021800AEBA90 /* WelcomeViewController.swift */; };
@@ -32,6 +33,7 @@
 		69100E8624F5539700A4BAC9 /* Screenshot02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screenshot02.png; sourceTree = "<group>"; };
 		69100E8724F5539700A4BAC9 /* Screenshot03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screenshot03.png; sourceTree = "<group>"; };
 		69100E8824F5539700A4BAC9 /* Screenshot01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screenshot01.png; sourceTree = "<group>"; };
+		69100E8E24F555F400A4BAC9 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		69A49B2E24EC021800AEBA90 /* Quiz 2020.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Quiz 2020.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		69A49B3124EC021800AEBA90 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		69A49B3324EC021800AEBA90 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -74,6 +76,7 @@
 		69A49B2524EC021800AEBA90 = {
 			isa = PBXGroup;
 			children = (
+				69100E8E24F555F400A4BAC9 /* README.md */,
 				69A49B3024EC021800AEBA90 /* Quiz 2020 */,
 				69A49B2F24EC021800AEBA90 /* Products */,
 			);
@@ -203,6 +206,7 @@
 				69A49B3B24EC021900AEBA90 /* Assets.xcassets in Resources */,
 				69100E8A24F5539700A4BAC9 /* Screenshot05.png in Resources */,
 				69A49B3924EC021800AEBA90 /* Main.storyboard in Resources */,
+				69100E8F24F555F400A4BAC9 /* README.md in Resources */,
 				69100E8C24F5539700A4BAC9 /* Screenshot03.png in Resources */,
 				69100E8B24F5539700A4BAC9 /* Screenshot02.png in Resources */,
 			);
